@@ -1,0 +1,19 @@
+{
+  "name": "fizraamir29_currency-converter",
+  "version": "1.0.3",
+  "description": "A currency Converter ",
+  "main": "index.js",
+  "bin":"index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fizra Amir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
